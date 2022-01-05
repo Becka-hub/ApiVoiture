@@ -1,5 +1,5 @@
-Bonjour j'ai n'est pas mis du react dans ce projet car j'ai n'ais par beaucoup de temps pour apprendre du react et faire le test en même temps ,
-mais j'ai fini de creé l'api rest pour les fonctionner demander
+Bonjour j'ai n'est pas mis du react dans ce projet car j'ai n'ais pas eu beaucoup de temps pour apprendre du react et faire le test en même temps ,
+mais j'ai fini l'api rest pour les fonctionner demander
 
 # Test React Symfony
 -J'ai utiliser Symfony 5.3.12
